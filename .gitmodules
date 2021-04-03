@@ -1,0 +1,60 @@
+[submodule "indentLine"]
+	path = indentLine
+	url = git@github.com:Yggdroot/indentLine.git
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = git@github.com:preservim/nerdcommenter.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "open-browser.vim"]
+	path = open-browser.vim
+	url = git@github.com:tyru/open-browser.vim.git
+[submodule "pear-tree"]
+	path = pear-tree
+	url = git@github.com:tmsvg/pear-tree.git
+[submodule "undotree"]
+	path = undotree
+	url = git@github.com:mbbill/undotree.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "vim-closetag"]
+	path = vim-closetag
+	url = git@github.com:alvan/vim-closetag.git
+[submodule "vim-css-color"]
+	path = vim-css-color
+	url = git@github.com:ap/vim-css-color.git
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align.git
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = git@github.com:easymotion/vim-easymotion.git
+[submodule "vim-monokai-tasty"]
+	path = vim-monokai-tasty
+	url = git@github.com:patstockwell/vim-monokai-tasty.git
+[submodule "vim-polyglot"]
+	path = vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot.git
+[submodule "vim-signature"]
+	path = vim-signature
+	url = git@github.com:kshenoy/vim-signature.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "vim-unimpaired"]
+	path = vim-unimpaired
+	url = git@github.com:tpope/vim-unimpaired.git
+[submodule "vimtex"]
+	path = vimtex
+	url = git@github.com:lervag/vimtex.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:WeixuanZ/dotfiles.git
+[submodule "vim-plug"]
+	path = vim-plug
+	url = git@github.com:junegunn/vim-plug.git
